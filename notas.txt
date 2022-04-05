@@ -1,0 +1,7 @@
+-Crear carpeta vendors dentro de public
+-Copiar carpetas dist y plugins desde la raiz de plantilla AdminLTE
+-Crear vista index en la raiz de carpeta view
+-Desde el archivo starter.html que esta en la raiz de de plantilla AdminLTE se saca el codigo base
+-En carpeta view crear carpeta layouts y dentro colocar vistas app, footer, leftMenu, rightMenu, topMenu
+-En app colocar cabecera con llamados a css y cierre de body con llamados a js (agregar asset en llamados href)
+-En app colocar includes a las demas vistas de layouts y el section y yield para la zona central de contenido
